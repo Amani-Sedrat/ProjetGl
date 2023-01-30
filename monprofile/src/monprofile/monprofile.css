@@ -1,0 +1,155 @@
+.bloc{
+    position: relative;
+   
+    width:423px;
+    height: 430px;
+   left:360px ;
+    top: 25px;
+  
+border-radius: 18px;
+}
+.bloc1{
+    position: relative;
+   background-color: #C3E6C6;
+    width: 700px;
+    height: 750px;
+   left:200px ;
+    top:-200px;
+  
+border-radius: 18px;
+}
+#p1{
+    position: relative;
+    font-family: 'mogra';
+    left:125px;
+}
+#p2{
+    position: relative;
+    font-family: 'mogra';
+    left: -100px;
+    top: 15px;
+    font-size: 20px;
+    font-weight: normal;
+    font-weight: normal;
+    background-color: #C3E6C6;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    padding: 2%;
+    border-radius: 10px;
+
+}
+#p3{
+    position: relative;
+    font-family: 'mogra';
+    left: 90px;
+    top: -38px;
+    font-size: 20px;
+    font-weight: normal;
+    font-weight: normal;
+    background-color: #C3E6C6;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    padding: 2%;
+    border-radius: 10px;
+
+}
+
+#p4{
+    position: relative;
+    font-family: 'mogra';
+    left: -5px;
+    top: -30px;
+    font-size: 20px;
+    font-weight: normal;
+    font-weight: normal;
+    background-color: #C3E6C6;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    padding: 2%;
+    border-radius: 10px;
+
+}
+#p5{
+    position: relative;
+    font-family: 'mogra';
+    left:270px;
+    top:20px;
+}
+.bloc2{
+    background-color: white;
+    border-radius: 8px;
+    width:600px;
+    height: 200px;
+    left: 50px;
+    position: relative;
+    top:20px;
+}
+#img3{
+    position: relative;
+    left: 50px;
+    top: 50px;
+    height: 70px;
+    width: 70px;
+}
+.description{
+    position: relative;
+    background-color: #f4ce434d;
+    padding: 6%;
+    width: 58%;
+    left: 150px;
+    top: -50px;
+    border-radius: 2%;
+}
+#p6{
+    position: relative;
+    font-family: 'mogra';
+    left: 0px;
+    top: 0px;
+    font-size: 20px;
+    font-weight: normal;
+    font-weight: normal;
+}
+#btn2{
+    background-color: white;
+    border-color: white;
+    position: relative;
+left :450px;
+top:-40px;
+}
+#img4{
+    width: 20px;
+    left: 20px;
+}
+#btn3{
+    background-color: white;
+    border-color: white;
+    position: relative;
+left :480px;
+top:-40px;
+}
+#img5{
+    width: 20px;
+    left: 20px;
+}
+.bloc3{
+    background-color: white;
+    border-radius: 8px;
+    width:600px;
+    height: 200px;
+    left: 50px;
+    position: relative;
+    top:30px;
+}
+
+.bloc4{
+    background-color: white;
+    border-radius: 8px;
+    width:600px;
+    height: 200px;
+    left: 50px;
+    position: relative;
+    top:40px;
+}

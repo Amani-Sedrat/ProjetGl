@@ -1,0 +1,44 @@
+
+.Header{
+ 
+background-color: white;
+margin-right: -8px;
+margin-left: -10px;
+top: -9PX;
+position: relative;
+}
+
+#img1{
+    position: relative;
+    left: 10px;
+    width: 8%;
+    height: 8%;
+    top: 5px;
+}
+#img2{
+    position: relative;
+    left:900px;
+    width: 4%;
+    height: 4%;
+    top: -8px;
+}
+#btn1 {
+     
+    position: relative;
+    left:880px;
+    top:-25px;
+    width: 120px;
+    
+    padding:5px;
+    border:none;
+    background-color: #F4CD43;
+    color:black;
+    border-radius: 30px;
+    font-family: "mogra";
+    font-weight: light;
+    font-size: 20px;
+    cursor: pointer;
+    
+
+}   
+ 
